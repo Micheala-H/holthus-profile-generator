@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/Micheala-H/holthus-profile-generator#readme",
   "dependencies": {
-    "inquirer": "^8.2.4"
+    "fs": "^0.0.1-security",
+    "inquirer": "^8.2.4",
+    "nodemon": "^2.0.22"
   }
 }
